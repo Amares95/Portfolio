@@ -1,5 +1,21 @@
-# Decorate Your Portfolio
+body {
+    background-color: red;
+    color: blue;
 
-This is an activity for FSD Lesson 1.8.2.
+}
+img {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+} 
+h1 { background-color: lightgrey;
+    color: yellow;
 
-Please refer to the Activity Guide in Canvas for directions.
+}
+li{
+
+    color:black /* set text color to black*/ 
+
+}
